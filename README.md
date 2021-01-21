@@ -5,6 +5,6 @@ Excerpts begin and end with the beginning and ends of sentences respectively.
 If a sentence begins before the minLength and persists through the maxLength, the excerpt is deleted.
 
 To use:
-  '''python
+  ```
 	python3 splitDoc.py [filePath] [minLength] [maxLength]
-  '''
+  ```
