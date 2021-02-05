@@ -1,6 +1,6 @@
-# Excerpt_Extraction
+# doc-splitter
 
-Excerpt Extractor: Creates directory splitDoc.py and populates with excerpts of specified word count range from passed file.
+Document Splitter: Creates directory splitDoc.py and populates with excerpts of specified word count range from passed file.
 
 Excerpts begin and end with the beginning and ends of sentences respectively.
 
